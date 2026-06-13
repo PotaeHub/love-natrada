@@ -13,6 +13,20 @@ body {
     font-family: sans-serif;
 }
 
+.ending {
+    display: none;
+    text-align: center;
+}
+
+.ending h1 {
+    color: #ff4d6d;
+    margin-bottom: 15px;
+}
+
+.ending p {
+    font-size: 20px;
+}
+
 .card {
 
     background: white;
